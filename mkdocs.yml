@@ -1,10 +1,14 @@
 site_name: Test docs
 site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_author: 'CipherCore'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'genego-dev/wiki.tasktime.eu'
+repo_url: 'https://github.com/genego-dev/wiki.tasktime.eu'
 nav:
     - Home: index.md
 theme:
   name: 'material'
+  
+
+name: Deploy MkDocs
+uses: mhausenblas/mkdocs-deploy-gh-pages@1.16
