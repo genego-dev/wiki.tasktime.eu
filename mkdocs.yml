@@ -6,7 +6,13 @@ repo_name: 'genego-dev/wiki.tasktime.eu'
 repo_url: 'https://github.com/genego-dev/wiki.tasktime.eu'
 nav:
     - Home: index.md
-    - 
+    - Home: index.md
+    - Home: index.md
+    - Home: index.md
+    - Home: index.md
+    - Home: index.md
+    - Home: index.md
+    - Home: index.md
 theme:
   name: 'material'
   
