@@ -1,8 +1,10 @@
+# Welkom bij TaskTime!
+
+
 <p align="center">
   <a href="https://tasktime.nl"><img src="https://i.imgur.com/Wgq7kZP.png" alt="TaskTime"></a>
 </p>
 
-# Welkom bij TaskTime!
 
 
   
