@@ -6,8 +6,9 @@ repo_name: 'genego-dev/wiki.tasktime.eu'
 repo_url: 'https://github.com/genego-dev/wiki.tasktime.eu'
 nav:
     - Introductie: index.md
-    - Handleiding: index.md
-    - Koppeling (API) : index.md
+    - Features: features.md
+    - Handleiding: handleiding.md
+    - Koppeling (API) : koppeling.md
 theme:
   name: 'material'
   
